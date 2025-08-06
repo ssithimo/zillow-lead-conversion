@@ -6,8 +6,9 @@ This folder contains the **synthetic dataset** used to model real estate lead pr
 
 ## 📁 Files
 
-### `simulated_user_sessions.csv`
-Simulated dataset of ~5,000 browsing sessions over the past 180 days (6 months). Each row represents a single session from an anonymized user.
+### `zillow-dataset-simulation.ipynb`
+### `moval-zillow-data.csv`
+Simulated dataset of ~26,000 browsing sessions over the past 180 days (6 months). Each row represents a single session from an anonymized user.
 
 ---
 
